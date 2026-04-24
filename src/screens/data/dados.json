@@ -1,0 +1,57 @@
+{
+  "pontosTuristicos": [
+    {
+      "id": 1,
+      "nome": "Parque Ibirapuera",
+      "descricao": "Um dos parques mais famosos de São Paulo, ideal para lazer e esportes.",
+      "localizacao": "Vila Mariana - SP",
+      "rating": 4.9,
+      "imagem": "https://images.unsplash.com/photo-1583416750470-965b2707b355?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 2,
+      "nome": "Avenida Paulista",
+      "descricao": "Centro financeiro e cultural com museus, lojas e eventos.",
+      "localizacao": "Bela Vista - SP",
+      "rating": 4.8,
+      "imagem": "https://images.unsplash.com/photo-1543059080-f9b1272213d5?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 3,
+      "nome": "Mercado Municipal",
+      "descricao": "Famoso pelo sanduíche de mortadela e variedade de produtos.",
+      "localizacao": "Centro - SP",
+      "rating": 4.7,
+      "imagem": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=1200&q=80"
+    }
+  ],
+  "restaurantes": [
+    {
+      "id": 1,
+      "nome": "Churrasco Paulista",
+      "descricao": "Carnes nobres grelhadas com buffet completo.",
+      "localizacao": "Pinheiros - SP",
+      "rating": 4.9,
+      "categoria": "Churrasco",
+      "imagem": "https://vipzinho.com.br/wp-content/uploads/2025/02/churrascariarodizio.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Sabor do Mar",
+      "descricao": "Frutos do mar frescos com vista agradável.",
+      "localizacao": "Santos - SP",
+      "rating": 4.8,
+      "categoria": "Frutos do Mar",
+      "imagem": "https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 3,
+      "nome": "Brasa Grill",
+      "descricao": "Churrascaria tradicional com ótimo atendimento.",
+      "localizacao": "Campinas - SP",
+      "rating": 4.7,
+      "categoria": "Churrasco",
+      "imagem": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}
